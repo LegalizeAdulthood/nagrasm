@@ -1,0 +1,14 @@
+add_executable(nagrasm
+as.h
+as.c
+eval.c
+input.c
+macro.c
+object.c
+output.c
+pseudo.c
+st7.c
+symtab.c
+tables.c
+util.c
+)
